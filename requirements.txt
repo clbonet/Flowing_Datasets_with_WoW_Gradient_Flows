@@ -1,0 +1,8 @@
+jax[cuda12]
+matplotlib
+jax-tqdm
+scikit-learn
+ott-jax
+equinox
+optax
+pot
